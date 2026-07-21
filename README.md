@@ -2,6 +2,8 @@
 
 LeadFlow is a focused CRM dashboard for small service businesses. It helps a team capture new leads, plan follow-ups, track deal value, and move opportunities through a simple sales pipeline.
 
+**[Open the live demo](https://asdfasfagazxfasfawsfasf.github.io/leadflow-crm/)** · **[Read the security notes](SECURITY.md)**
+
 ## Features
 
 - Live overview with pipeline metrics and upcoming follow-ups
